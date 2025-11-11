@@ -3,7 +3,7 @@
 theme: default
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: ./image/FondoInicio.jpg
+background:https://imgs.search.brave.com/5weH8k_axgFSKVai5UEAzI8TKgBs0f3MDASYzrA6WdU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvOTM2/MzM4ODg0L3Bob3Rv/L2NvbXB1dGVyLW1h/bHdhcmUtYXR0YWNr/LmpwZz9zPTYxMng2/MTImdz0wJms9MjAm/Yz1tYmtON3BSVGZF/b3JrOUFqbXBnMndm/aW9rNXUtazd0ejB0/TTBqQkE2eHhnPQ
 # some information about your slides (markdown enabled)
 title: Welcome to Slidev
 info: |
